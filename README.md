@@ -1,2 +1,2 @@
 # SPSS-Statistics
-This is basic SPSS Statistics project for beginner.
+This is the journey of SPSS Statistics projects.
